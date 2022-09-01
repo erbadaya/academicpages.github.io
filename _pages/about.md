@@ -12,4 +12,9 @@ I'm Espe (she/her), a PhD student in Psycholinguistics at the [School of Philoso
 
 Among the other things that do not let me sleep at night are the differences between written and spoken disfluencies, the inferences we make about the speaker when processing speech, lexical choices; basically, how do we manage to comprehend one another (especially when speaking!) with all this information. I'm always happy to talk about these and other ideas, so drop me a line if they also keep you awake at night.
 
-I enjoy coding, teaching, and their intersection. Given that *to do science is to be a social actor engaged, whether one likes it or not, in political activity* (Lewontin, 1985), I also spend my time trying to improve the spaces where we work and how we work.  
+I enjoy coding, teaching, and their intersection. I usually work on Python, OpenSesame and R for my research. 
+
+On the side, I co-organise the [Psycholinguistics Coffee](https://blogs.ed.ac.uk/psycholingcoffee/) with [Greta Gandolfi](https://gretagandolfi.github.io/). Given that *to do science is to be a social actor engaged, whether one likes it or not, in political activity* (Lewontin, 1985), I also spend my time trying to improve the spaces where we work and how we work. For example, Greta[^1] and I are currently organising an event to bring together ECR and PGT working on Psycholinguistics to create a space for all of us to discuss research, and share our experiences and knowledge on building a career in Academia and how to improve our work and how we conduct it (you can check it out [here](https://linkedi2022.github.io/)).  
+
+
+[^1]: In all honesty, I work a lot with Greta so 30% of the times I use 'we' it means 'Greta and I'.
