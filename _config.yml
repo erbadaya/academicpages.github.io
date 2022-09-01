@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Badaya"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Esperanza Badaya"
 description              : &description "personal description"
 url                      : https://erbadaya.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "erbadaya"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "erbadaya"
   vine             :
   weibo            :
   xing             :
