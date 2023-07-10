@@ -8,7 +8,7 @@ author_profile: true
 
 ## Poster presentations
 
-**2023** (forthcoming). Badaya, E., Corley, M., & Hartsuiker, R. "Local versus global reasons for a speaker to be disfluent: Feeling of another’s knowing for native and non-native speakers". The 10th biennial meeting of Experimental Pragmatics. Paris, France.
+**2023** (forthcoming) Badaya, E., Corley, M., & Hartsuiker, R. "Local versus global reasons for a speaker to be disfluent: Feeling of another’s knowing for native and non-native speakers". The 10th biennial meeting of Experimental Pragmatics. Paris, France.
 
 **2023** Badaya, E., Corley, M., & Hartsuiker, R. "Local versus global reasons for a speaker to be disfluent: Feeling of another’s knowing for native and non-native speakers".  20th Psycholinguistics in Flanders. Ghent, Belgium. 
 
