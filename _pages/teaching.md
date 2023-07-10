@@ -10,6 +10,8 @@ author_profile: true
 
 ## Courses tutored
 
+**2023** Psychology 1 & 2, Teaching Assistant, Department of Psychology, PPLS, UoE
+
 **2022** Working with data types and structures in Python and R, Teaching Assistant, Usher Institute, UoE
 
 **2021-2022** Introduction to data science in health and social care, Teaching Assistant, Usher Institute, UoE
